@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Universities Rankings",
+  "description": "Explore, compare, and analyze higher education university rankings across Pakistan with comprehensive performance scores, categories, and student decision tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
